@@ -1,13 +1,11 @@
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 import java.sql.*;
 
 public class AgendaContatos extends JFrame {
 
-    private JTextField txtNome, txtTelefone, txtEmail;
-    private JTextArea txtListaContatos;
+    private final JTextField txtNome, txtTelefone, txtEmail;
+    private final JTextArea txtListaContatos;
 
     private static final String DB_URL = "jdbc:sqlite:agenda_contatos.db"; // Banco SQLite
 

@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b80180c2-56b0-46f6-bdfa-fc6a44f54cba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AgendaContatos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AgendaContatos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AgendaContatosMySQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="b80180c2-56b0-46f6-bdfa-fc6a44f54cba" name="Changes" comment="Projeto de Agenda de contatos para trabalho academico de Java (Prof Marcelo)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AgendaContatos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AgendaContatos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -100,12 +96,25 @@
       <option name="presentableId" value="Default" />
       <updated>1730935403778</updated>
       <workItem from="1730935404831" duration="4583000" />
-      <workItem from="1731114855635" duration="569000" />
+      <workItem from="1731114855635" duration="3184000" />
     </task>
+    <task id="LOCAL-00001" summary="Projeto de Agenda de contatos para trabalho academico de Java (Prof Marcelo)">
+      <option name="closed" value="true" />
+      <created>1731115970892</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731115970892</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projeto de Agenda de contatos para trabalho academico de Java (Prof Marcelo)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projeto de Agenda de contatos para trabalho academico de Java (Prof Marcelo)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
